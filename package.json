@@ -4,7 +4,6 @@
   "version": "0.2.6",
   "description": "Tree Component for Vue3 powered by D3.js & SVG",
   "scripts": {
-    "install": "npm run build:component",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
