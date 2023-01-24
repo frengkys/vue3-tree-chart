@@ -44,7 +44,7 @@ import TreeChartCore, {
   DEFAULT_LEVEL_HEIGHT,
   TreeLinkStyle,
   Direction,
-} from "@ssthouse/tree-chart-core";
+} from "tree-chart-core";
 
 const formatDimension = (dimension) => {
   if (typeof dimension === "number") return `${dimension}px`;
